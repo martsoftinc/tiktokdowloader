@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Ghana Personal Loans Calculator - Terms of service">
-    <title>Ghana Loans Calculator - Terms of service</title>
+    <meta name="description" content="South Africa Personal Loans Calculator - Terms of service">
+    <title>South Africa Loans Calculator - Terms of service</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
@@ -12,7 +12,7 @@
     <!-- Navigation Menu -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/">Ghana Loan Calculator</a>
+            <a class="navbar-brand" href="/">South Africa Loan Calculator</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -74,7 +74,7 @@
 
                     <section>
                         <h2>Governing Law</h2>
-                        <p>These terms of service are governed by and construed in accordance with the laws of Ghana. By using this website, you consent to the jurisdiction of the courts located in Ghana for any disputes related to these terms of service.</p>
+                        <p>These terms of service are governed by and construed in accordance with the laws of South Africa. By using this website, you consent to the jurisdiction of the courts located in South Africa for any disputes related to these terms of service.</p>
                     </section>
 
                     <section>

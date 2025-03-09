@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Ghana Personal Loans Calculator">
-    <title>Ghana Loans Calculator</title>
+    <meta name="description" content="South Africa Personal Loans Calculator">
+    <title>South Africa Loans Calculator</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
@@ -12,7 +12,7 @@
     <!-- Navigation Menu -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/">Ghana Loans Calculator</a>
+            <a class="navbar-brand" href="/">South Africa Loans Calculator</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -36,7 +36,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-8 offset-md-2">
-                <h1>Ghana Personal Loans Calculator</h1>
+                <h1>South Africa Personal Loans Calculator</h1>
                 <p>Welcome to our Loan Calculator! This tool helps you calculate your monthly repayments based on the loan amount and the number of months. Enter the details below to see how much you would pay each month for multiple banks</p>
                 <form action="{{ route('Loans') }}" method="POST" class="p-4 mb-4" style="background-color: #e6f9e6; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     @csrf
@@ -82,7 +82,7 @@
     </ul>
 
     <h2>Who Can Benefit?</h2>
-    <p>This loan calculator web app is perfect for anyone in Ghana looking to take out a personal loan, whether from GCB, Ecobank, or any other financial institution. With fixed interest rates, the app offers reliable calculations that take the guesswork out of planning your loan.</p>
+    <p>This loan calculator web app is perfect for anyone in South Africa looking to take out a personal loan, whether from GCB, Ecobank, or any other financial institution. With fixed interest rates, the app offers reliable calculations that take the guesswork out of planning your loan.</p>
 </body>
             </div>   
         </div> 
@@ -90,23 +90,12 @@
          <div class="row mt-5">
              <div class="col-md-8 offset-md-2">
          <h3> Related Articles</h3> 
-         <ul>
-    <li><a href="https://wanderlustexplored.com/articles/how-to-apply-for-a-personal-loan-at-gcb-bank-in-ghana">How to Apply for a Personal Loan at GCB Bank in Ghana</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/explore-stanbic-bank-ghana-s-low-interest-loans">Explore Stanbic Bank Ghana's Low-Interest Loans</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/a-guide-to-getting-business-loans-from-ecobank-ghana">A Guide to Getting Business Loans from Ecobank Ghana</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/the-best-loan-options-from-absa-bank-for-entrepreneurs-in-ghana">The Best Loan Options from Absa Bank for Entrepreneurs in Ghana</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/understanding-fidelity-bank-ghana-student-loans">Understanding Fidelity Bank Ghana Student Loans</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/quick-loans-from-uba-ghana-what-you-need-to-know">Quick Loans from UBA Ghana: What You Need to Know</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/standard-chartered-bank-ghana-s-top-5-home-loan-products">Standard Chartered Bank Ghana's Top 5 Home Loan Products</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/how-to-get-an-sme-loan-from-first-national-bank-ghana">How to Get an SME Loan from First National Bank Ghana</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/benefits-of-applying-for-an-agribusiness-loan-from-the-agricultural-development-bank-of-ghana-adb">Benefits of Applying for an Agribusiness Loan from the Agricultural Development Bank of Ghana (ADB)</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/personal-loan-rate-comparison-gcb-vs-ecobank">Personal Loan Rate Comparison: GCB vs. Ecobank</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/how-to-get-the-best-mortgage-deal-from-calbank-ghana">How to Get the Best Mortgage Deal from CalBank Ghana</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/what-to-expect-when-applying-for-a-loan-at-prudential-bank-ghana">What to Expect When Applying for a Loan at Prudential Bank Ghana</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/best-zenith-bank-car-loan-options-in-ghana-2025">Best Zenith Bank Car Loan Options in Ghana 2025</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/how-to-apply-for-a-societe-generale-ghana-emergency-loan-guide">How to Apply for a Société Générale Ghana Emergency Loan: Guide</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/a-guide-to-loan-types-and-banking-institutions-in-ghana">A Guide to Loan Types and Banking Institutions in Ghana</a></li>
-    <li><a href="https://wanderlustexplored.com/articles/how-to-maximize-your-chances-of-getting-a-loan-approval-at-stanbic-bank-ghana">How to Maximize Your Chances of Getting a Loan Approval at Stanbic Bank Ghana</a></li>
+        <ul>
+  <li><a href="https://edu-online24.com/articles/how-to-apply-for-a-personal-loan-at-nedbank-south-africa">How to Apply for a Personal Loan at Nedbank South Africa</a></li>
+  <li><a href="https://edu-online24.com/articles/business-loans-from-standard-bank-financing-options-for-entrepreneurs">Business Loans from Standard Bank: Financing Options for Entrepreneurs</a></li>
+  <li><a href="https://edu-online24.com/articles/microfinance-loans-from-wonga-south-africa-empowering-small-business-owners">Microfinance Loans from Wonga South Africa: Empowering Small Business Owners</a></li>
+  <li><a href="https://edu-online24.com/articles/secured-vs-unsecured-loans-at-fnb-which-is-the-best-option-for-you">Secured vs Unsecured Loans at FNB: Which Is the Best Option for You?</a></li>
+  <li><a href="https://edu-online24.com/articles/vehicle-financing-with-wesbank-getting-the-best-car-loan-in-south-africa">Vehicle Financing with WesBank: Getting the Best Car Loan in South Africa</a></li>
 </ul>
 </div>
 </div>

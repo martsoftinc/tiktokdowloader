@@ -13,9 +13,9 @@ class BanksTableSeeder extends Seeder
     public function run(): void
     {
         DB::table('banks')->insert([
-        ['name' => 'Fidelity', 'interest_rate' => 1.83],
-        ['name' => 'Access', 'interest_rate' => 3.00],
-        ['name' => 'GCB', 'interest_rate' => 1.89],
+        ['name' => 'Capitec', 'interest_rate' => 2.25],
+        ['name' => 'FirstRand', 'interest_rate' => 1.5],
+        ['name' => 'Absa', 'interest_rate' => 1.5],
     ]);
     }
 }
